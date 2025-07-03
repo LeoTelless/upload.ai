@@ -36,7 +36,7 @@ Antes de começar, certifique-se de ter instalado:
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/upload-ai.git
+   git clone https://github.com/LeoTelless/upload-ai.git
    cd upload-ai
    ```
 
